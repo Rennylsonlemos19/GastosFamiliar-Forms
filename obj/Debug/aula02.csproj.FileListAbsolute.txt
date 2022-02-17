@@ -1,0 +1,11 @@
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula02\bin\Debug\aula02.exe.config
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula02\bin\Debug\aula02.exe
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula02\bin\Debug\aula02.pdb
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula02\obj\Debug\aula02.csproj.AssemblyReference.cache
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula02\obj\Debug\aula02.csproj.SuggestedBindingRedirects.cache
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula02\obj\Debug\aula02.Form1.resources
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula02\obj\Debug\aula02.Properties.Resources.resources
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula02\obj\Debug\aula02.csproj.GenerateResource.cache
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula02\obj\Debug\aula02.csproj.CoreCompileInputs.cache
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula02\obj\Debug\aula02.exe
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula02\obj\Debug\aula02.pdb
